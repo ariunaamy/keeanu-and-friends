@@ -1,0 +1,9 @@
+.main {
+    background-color: pink;
+    &__title {
+        color: purple;
+    }
+    &__paragraph {
+        text-decoration: underline;
+    }
+}
