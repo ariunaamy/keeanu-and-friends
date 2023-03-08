@@ -1,0 +1,20 @@
+
+.keeanuandFriends{
+    
+    &__title{
+        
+        font-family: Georgia;
+        font-weight: bolder;
+        color: blue;
+    }
+
+    &__description{
+        color:orange;
+
+    }
+
+    &__image{
+        width:300px;
+        height:300px;
+    }
+}
